@@ -1,6 +1,6 @@
 # Hello, world!
 
-"Hello, world!" projects are a common starting point for developers learning new languages or platforms, as it provides a simple demonstration of how a programming language can be written for an application.
+"Hello, world!" projects are a common starting point for developers learning new languages or platforms, as it provides a simple demonstration of how a programming language can be written for an application. **I built it during IT Step academy workshop.**
 
 This application's logic is written in [Rust](https://internetcomputer.org/docs/building-apps/developer-tools/cdks/rust/intro-to-rust), a primary programming language for developing canisters on ICP.
 
@@ -26,3 +26,7 @@ To migrate your ICP Ninja project off of the web browser and develop it locally,
 ### 1. Download your project from ICP Ninja using the 'Download files' button on the upper left corner under the pink ninja star icon.
 
 ### 2. Open the `BUILD.md` file for further instructions.
+
+
+### Links
+Deployed version - https://vwrq2-qaaaa-aaaak-quivq-cai.icp0.io/
